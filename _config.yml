@@ -11,7 +11,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Isaac Broyles Art"
-description:	       "Artistic learning resources and inspiration"
+description:	       "Resources for learniing and inspiration"
 author:              "Isaac Broyles"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
