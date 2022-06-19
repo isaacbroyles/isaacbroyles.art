@@ -7,20 +7,20 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Interesting Facts',  url: 'facts'}
+
 - {name: 'Learning Resources', url: 'resources'}
-- {name: 'Sample Posts',       url: 'sample-posts'}
-- {name: 'Documentation',      url: 'documentation'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'instagram', link:  'https://instagram.com/isaacbroyles.art'}
-- {icon: 'twitter', link:    'https://twitter.com/isaacbroyles'}
-- {icon: 'facebook', link:   'https://www.facebook.com/isaacbroyles.art'}
+- {icon: 'tiktok', link:  'https://www.tiktok.com/@isaacbroyles.art'}
+- {icon: 'youtube', link:  'https://www.youtube.com/channel/UCyfgmTybegqIIIdoJ_JzuKw'}
 - {icon: 'pinterest', link:   'https://www.pinterest.com/isaacbroyles_art/'}
-- {icon: 'rss-square', link: 'feed.xml'}
+- {icon: 'facebook', link:   'https://www.facebook.com/isaacbroyles.art'}
+- {icon: 'twitter', link:    'https://twitter.com/isaacbroyles'}
+# - {icon: 'rss-square', link: 'feed.xml'}
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
 
 # Customize site text
